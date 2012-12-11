@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<!-- general -->
+	<settings>
+	
+		<item name="copyright"><![CDATA[SHAHYAR VASEGHI STUDIO © 2012 | ALL RIGHTS RESERVED]]></item>
+		<item name="companyName2"><![CDATA[<font letterspacing="0"><font size="60">L</font>iLi</font>]]></item>
+		<item name="companyName"><![CDATA[<font letterspacing="-1"><font size="60"></font>VASEGHI</font>]]></item>
+		<item name="companyName3"><![CDATA[<font letterspacing="1">WELLCOME TO MY HOMEPAGE</font>]]></item>
+
+	</settings>	
+
+	<!-- menu -->
+
+	<menu>
+			
+			<button><![CDATA[ABOUT]]></button>
+			<button><![CDATA[MY FAMILY]]></button>
+			<button><![CDATA[GALLERY]]></button>
+			<button><![CDATA[CONTACTS]]></button>
+			
+	</menu>
+
+	<!-- pages -->
+	
+	<pages>
+		
+		<titlePage name="Splash">
+		
+			<imagesPage>
+
+				<image imageUrl="images/ic_1.png" link="http://www.activeden.net/"></image>
+				<image imageUrl="images/ic_2.png" link="http://www.activeden.net/"></image>
+				<image imageUrl="images/ic_3.png" link="http://www.activeden.net/"></image>
+				
+				<image imageUrl="images/imagebg.jpg"></image>
+	
+			</imagesPage>
+		
+		</titlePage>
+		
+
+		<titlePage name="ABOUT"><img src="images/comic1.jpg" />
+		
+			<texts>
+			
+				<pageText><![CDATA[ABOUT ME]]></pageText>
+				<pageText><![CDATA[EXPERIENCE]]></pageText>
+				
+				<pageText><![CDATA[<b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, corrupti quos dolores et quas</b>]]></pageText>
+				
+				<pageText><![CDATA[Culpa qui officia deserunt mollitia animi, estoc laborum et dolorum fuga. Et harum quidemedi rerum facilis est et expedita distinctio. Namos libero desi tempore, cum soluta <u><font color="#000000"><a href="http://www.demolink.org/">denobis estu</a></font> <font color="#000000"><a href="#http://www.demolink.org/">eligendi optio</a></font></u> cumque nihil ipedit quo quod maxime placeatun facere possimus est eiusmod tempor incididunt ut labore et.<br><br>Culpa qui officia deserunt mollitia animi, estoc laborum et dolorum fuga. Et harum quidemedi rerum facilis est et expedita distinctio. Namos libero desi tempore, cum soluta denobis estu eligendi optio cumque nihil ipedit quo quod maxime placeatun facere possimus est. Ascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio<br><br>]]></pageText>
+				
+				<pageText><![CDATA[Errupti quos dolores et quas molestias turi sint occaecati cupiditate non<br><br>Officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis eset expedita distinctio. Nam libero tempore, cum soluta nobis<br><br>West eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor. Aenean nonummy hendrerit mauris. Phasellus porta.]]></pageText>
+				
+				<readMoreText linkPage="0"><![CDATA[Read more]]></readMoreText>
+				
+			</texts>
+			
+			<pagePopup>
+			
+				<popup>
+						<item name="title"><![CDATA[read more 01]]></item>
+						<item name="linkText"><![CDATA[<font color="#999999">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</font><br>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Nulla dui.<br><br><font color="#999999">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</font><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget.<br><br>Morbi nunc odio, gravida at. Duis ultricies pharetra magna , consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis.<br><br>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet. Nsectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><br>]]></item>
+				</popup>
+
+			</pagePopup>
+
+		</titlePage>
+		
+		
+		
+		<titlePage name="SERVICES">
+			<texts>
+				<pageText><![CDATA[SEVICES]]></pageText>
+				
+				<pageText><![CDATA[Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia]]></pageText>
+				
+				<pageText><![CDATA[<b>Services:</b>]]></pageText>
+				
+				<pageText><![CDATA[Errupti quos dolores et quas molestias excep turi sint occaecati cupiditate non<br><br>Officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis eset expedita distinctio. Nam libero tempore, cum soluta nobis<br><br>West eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Oomnis voluptas assumenda est, omnis dolor. Errupti quos dolores et quas molestias excep turi sint occaecati cupiditate non<br><br>Officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis eset expedita distinctio. Nam libero tempore, cum soluta nobis<br><br>West eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Oomnis voluptas assumenda est, omnis dolor. <br><br>Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia.]]></pageText>
+				
+				<pageList>
+				
+					<txt linkPage="0"><![CDATA[Fields workshops]]></txt>
+					<txt linkPage="1"><![CDATA[Studio workshops]]></txt>
+					<txt link="http://www.activeden.net/"><![CDATA[Weddings]]></txt>
+					<txt link="http://www.activeden.net/"><![CDATA[Fully equipped hands-on digital photography lab]]></txt>
+			
+				</pageList>
+				
+			</texts>
+			
+			<pagePopup>
+			
+				<popup>
+						<item name="title"><![CDATA[services 01]]></item>
+						<item name="linkText"><![CDATA[<font color="#999999">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</font><br>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Nulla dui.<br><br><font color="#999999">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</font><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget.<br><br>Morbi nunc odio, gravida at. Duis ultricies pharetra magna , consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis.<br><br>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet. Nsectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><br>]]></item>
+				</popup>
+				
+				<popup>
+						<item name="title"><![CDATA[services 02]]></item>
+						<item name="linkText"><![CDATA[<font color="#999999">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</font><br>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Nulla dui.<br><br><font color="#999999">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</font><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget.<br><br>Morbi nunc odio, gravida at. Duis ultricies pharetra magna , consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Qrat volutpat. Duis ac turpis.<br><br>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet. Nsectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed in lacus ut enim. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br><br>]]></item>
+				</popup>
+
+			</pagePopup>
+			
+		</titlePage>
+
+
+		<titlePage name="GALLERY">
+		
+			<gallery>
+			
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_1.jpg" imageBigUrl="gallery/gall_1.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_2.jpg" imageBigUrl="gallery/gall_2.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_3.jpg" imageBigUrl="gallery/gall_3.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_4.jpg" imageBigUrl="gallery/gall_4.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_5.jpg" imageBigUrl="gallery/gall_5.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_6.jpg" imageBigUrl="gallery/gall_6.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_7.jpg" imageBigUrl="gallery/gall_7.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_8.jpg" imageBigUrl="gallery/gall_8.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+				
+				<imagesPage>
+					<image imageUrl="gallery/gall_small_9.jpg" imageBigUrl="gallery/gall_9.jpg"></image>
+					<imageText><![CDATA[PHOTO INFO]]></imageText>
+					<imageText><![CDATA[<font color="#ffffff"><b>Photo Name:</b></font><br>Unde omnis iste natus errsit<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>Woluptatem accusantium dolor massa astumosto<br>rem aperiam, eaque ipsa quae ab illo inventore <br>veritatis et quasi architecto beatae sunt explicabo. <br>Nemo enim ipsam voluptatem  quia voluptas sit <br>aspernatur aut odit aut fugit , sed quia<br><br>Sed ut perspiciatis unde omnis iste natus errsit <br>voluptatem accusantium dolor massa astumosto<br>tam rem aperiam, eaque ipsa quae ab illo inven<br>tore veritatis et quasi architecto beatae sunt <br>explicabo. Nemo enim ipsam voluptatem quia <br>voluptas sit aspernatur aut odit aut fugit ed quia<br>consequuntur magni dolores eos qui ratione <br>voluptatem sequi nesciunt. Neque porro <br>quisquam est.<br><br>]]></imageText>
+				</imagesPage>
+
+			</gallery>
+
+		</titlePage>
+		
+		
+		<titlePage name="CONTACTS">
+	
+			<imagesPage>
+
+				<image imageUrl="images/map.jpg" link="http://www.activeden.net/"></image>
+
+			</imagesPage>
+		
+			<texts>
+			
+				<pageText><![CDATA[GET IN TOUCH]]></pageText>
+				<pageText><![CDATA[FEEDBACK]]></pageText>
+				
+				<pageText><![CDATA[<font color="#000000" size="13"><b>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</b></font><br>Telephone:   +1 800 603 6035<br>FAX:             +1 800 889 9898<br>E-mail: <font color="#000000"><a href="http://www.activeden.net/">mail@your_site.com</a></font>]]></pageText>
+				
+				<contatcForm>
+				
+					<button>						
+						<text><![CDATA[Reset]]></text>
+						<text><![CDATA[Submit]]></text>
+					</button>
+					
+					<titleTextForm>
+						<textForm><![CDATA[Your Name:]]></textForm>
+						<textForm><![CDATA[E-mail:]]></textForm>
+						<textForm><![CDATA[Message:]]></textForm>
+					</titleTextForm>
+					
+					<fieldsValidationTypes>
+						<validationType required="true">text</validationType>
+						<validationType required="true">e-mail</validationType>
+						<validationType required="false">no</validationType>
+					</fieldsValidationTypes>
+					
+				</contatcForm>
+					
+			</texts>
+
+		</titlePage>
+
+	</pages>
+</content>
